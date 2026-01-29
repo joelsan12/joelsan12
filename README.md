@@ -13,14 +13,14 @@ Me gusta [frontend/backend/data] y estoy mejorando en **buenas prácticas**, **G
 
 ## 🧰 Tecnologías
 **Con las que ya trabajé:**
-- Lenguajes: **[JavaScript / Python / Java]**
-- Frontend: **[HTML, CSS, React, Tailwind...]**
-- Backend: **[Java]**
-- DB: **[PostgreSQL, MySql]**
+- Lenguajes: JavaScript / Python / Java**
+- Frontend: HTML, CSS, React, Tailwind**
+- Backend: Java
+- DB: PostgreSQL, MySql
 - Tools: **Git, GitHub, VS Code, Linux**
 
 **Aprendiendo / mejorando:**
-- **[TypeScript / Testing / Docker ]**
+- **TypeScript / Testing / Docker **
 
 ---
 
