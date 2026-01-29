@@ -1,4 +1,4 @@
-# Hola, soy [Tu Nombre] 👋
+# Hola, soy Joel Sancan 👋
 
 Soy **Junior Developer** y actualmente me enfoco en aprender y construir proyectos reales.
 Me gusta [frontend/backend/data] y estoy mejorando en **buenas prácticas**, **Git** y **clean code**.
